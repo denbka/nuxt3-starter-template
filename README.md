@@ -2,6 +2,8 @@
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
+If you already have Node.js installed, check with node --version that you are using v14 or v16.
+
 ## Setup
 
 Make sure to install the dependencies
